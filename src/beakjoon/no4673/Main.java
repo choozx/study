@@ -1,3 +1,5 @@
+package beakjoon.no4673;
+
 import java.io.IOException;
 
 public class Main {
