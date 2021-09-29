@@ -16,7 +16,7 @@ public class Main {
         }
 
         for (int i=0;i<numList.length;i++){
-             total = total + numList[i];
+            total = total + numList[i];
         }
         System.out.println(total);
     }
